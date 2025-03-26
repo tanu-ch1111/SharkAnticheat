@@ -14,34 +14,40 @@ New anticheat system created by Japanese
 
 It is still in alpha version, so there is no guarantee that it will function properly.
 
+### 開発者
+
+[Tanudayo](https://www.youtube.com/@tanuch-pvp)
+
+rmatt
+
 <a href="https://discord.gg/mRqM8Nm9KB"><img src="https://invidget.switchblade.xyz/mRqM8Nm9KB" alt="https://discord.gg/mRqM8Nm9KB"/></a><br>
 
 ## 機能
 
 ### 対策するチート
-・BedAura/Bedbreak
+・BedAura/Bedbreak (tanudayo)
 
-・NoSlow
+・NoSlow (rmatt)
 
-・NoSwing
+・NoSwing (tanudayo)
 
-・KeepSprint
+・KeepSprint (tanudayo)
 
-・Phase
+・Phase (tanudayo)
 
-・GroundSoof
+・GroundSoof (tanudayo)
 
-・Speed
+・Speed (tanudayo)
 
-・Fly
+・Fly (rmatt)
 
-・GhostHand
+・GhostHand (tanudayo)
 
-・Timer
+・Timer (tanudayo)
 
-・Blink
+・Blink (tanudayo)
 
-・ViewHP
+・ViewHP (tanudayo)
 
 ## その他の機能
 ・LagBack
@@ -49,6 +55,7 @@ It is still in alpha version, so there is no guarantee that it will function pro
 ・Alert(sharkac.alerts)
 
 ・Ban/Kick(Configで設定可能)
+
 
 ・ファイル形式で検知を保存
 

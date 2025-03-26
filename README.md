@@ -22,6 +22,8 @@ rmatt
 
 <a href="https://discord.gg/mRqM8Nm9KB"><img src="https://invidget.switchblade.xyz/mRqM8Nm9KB" alt="https://discord.gg/mRqM8Nm9KB"/></a><br>
 
+<img src="https://github.com/tanu-ch1111/SharkAnticheat/blob/main/icon.png" alt="Java" width="500" />
+
 ## 機能
 
 ### 対策するチート
@@ -50,13 +52,13 @@ rmatt
 ・ViewHP (tanudayo)
 
 ## その他の機能
-・LagBack
+・LagBack (tanudayo)
 
-・Alert(sharkac.alerts)
+・Alert(sharkac.alerts) (tanudayo)
 
-・Ban/Kick(Configで設定可能)
+・Ban/Kick(Configで設定可能) (tanudayo)
 
 
-・ファイル形式で検知を保存
+・ファイル形式で検知を保存 (tanudayo)
 
 </div>

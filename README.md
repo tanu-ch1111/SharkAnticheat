@@ -58,7 +58,14 @@ rmatt
 
 ・Ban/Kick(Configで設定可能) (tanudayo)
 
-
 ・ファイル形式で検知を保存 (tanudayo)
+
+・コマンド (tanudayo)
+
+※開発中
+
+・GUIで操作 (rmatt)
+
+※開発中
 
 </div>
